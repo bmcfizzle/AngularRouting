@@ -54,10 +54,10 @@ export class ProductData implements InMemoryDbService {
       },
       {
         id: 10,
-        productName: 'Video Game Controller',
+        productName: 'VidNoeo Game Controller',
         productCode: 'GMG-0042',
         releaseDate: 'October 15, 2018',
-        description: 'Standard two-button video game controller',
+        description: 'Standard two-button vidNoeo game controller',
         price: 35.95,
         starRating: 4.6,
         imageUrl: 'assets/images/xbox-controller.png',
